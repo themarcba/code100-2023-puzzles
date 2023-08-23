@@ -52,9 +52,9 @@ Submit as solution an array of the values in the order that they appear in the l
 ```json
 {
     "linkedList": [
-        { "id": "b", "value": 2, "next": "3" },
+        { "id": "b", "value": 2, "next": "c" },
         { "id": "c", "value": 3, "next": null },
-        { "id": "a", "value": 1, "next": "2" }
+        { "id": "a", "value": 1, "next": "b" }
     ],
     "top": "a"
 }
